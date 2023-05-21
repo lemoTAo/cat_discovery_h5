@@ -1,0 +1,18 @@
+.flex_between {
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.flex_round {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex_center {
+    justify-content: center;
+}
+
+.direction_column {
+    flex-direction: column;
+}
