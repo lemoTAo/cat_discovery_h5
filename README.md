@@ -1,12 +1,5 @@
 # heer
 
-> A Vue.js project
-
-## 动图预览
-
-![功能展示](static/img/show.gif)
-
-## Build Setup
 
 ``` bash
 # install dependencies
